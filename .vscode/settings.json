@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/ligengzh/anaconda3/bin/python",
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp"
+    },
+    "files.autoSave": "onFocusChange",
+}
